@@ -7,3 +7,8 @@ it depends of sensor, if it is a sensor like dht11, as i had to test, just chang
 we need only th change 2 files sensor.py and wan_config.py.
 
 if it is a sensor with a I2C connection, we must chang a lot see sensor.py
+
+
+lilygo as access point
+
+see the file accesspoint.py
